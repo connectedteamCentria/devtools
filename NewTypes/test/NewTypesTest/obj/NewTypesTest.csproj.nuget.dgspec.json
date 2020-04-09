@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\test\\NewTypesTest\\NewTypesTest.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\src\\NewTypes\\NewTypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\src\\NewTypes\\NewTypes.csproj",
+        "projectName": "NewTypes",
+        "projectPath": "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\src\\NewTypes\\NewTypes.csproj",
+        "packagesPath": "C:\\Users\\Mirja Uusitalo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\src\\NewTypes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mirja Uusitalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\test\\NewTypesTest\\NewTypesTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\test\\NewTypesTest\\NewTypesTest.csproj",
+        "projectName": "NewTypesTest",
+        "projectPath": "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\test\\NewTypesTest\\NewTypesTest.csproj",
+        "packagesPath": "C:\\Users\\Mirja Uusitalo\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\test\\NewTypesTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mirja Uusitalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\src\\NewTypes\\NewTypes.csproj": {
+                "projectPath": "c:\\Users\\Mirja Uusitalo\\Documents\\coding-exercises\\project_examples\\NewTypes\\src\\NewTypes\\NewTypes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
