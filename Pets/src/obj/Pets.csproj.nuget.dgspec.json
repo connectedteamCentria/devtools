@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\devtools\\Pets\\src\\Pets.csproj": {}
+    "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\src\\Pets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\devtools\\Pets\\src\\Pets.csproj": {
+    "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\src\\Pets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\devtools\\Pets\\src\\Pets.csproj",
+        "projectUniqueName": "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\src\\Pets.csproj",
         "projectName": "Pets",
-        "projectPath": "C:\\Users\\User\\Documents\\devtools\\Pets\\src\\Pets.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\devtools\\Pets\\src\\obj\\",
+        "projectPath": "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\src\\Pets.csproj",
+        "packagesPath": "C:\\Users\\Mirja Uusitalo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mirja Uusitalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

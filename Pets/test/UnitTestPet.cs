@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace Pets
 {
-    public class Tests
+    public class PetTests
     {
         [SetUp]
         public void Setup()
@@ -17,7 +17,7 @@ namespace Pets
         }
         [Test]
 
-        public void CatTalkToCatOwnerReturnsMeow()
+        public void PetTalkToOwnerReturnsTalk()
         {
             Assert.Pass();
         }

@@ -2,9 +2,9 @@ using System;
 
 namespace Pets
 {
-    public class Cat
+    public class Cat : Pet
     {
-        public string TalkToCatOwner()
+        public override string TalkToOwner()
         {
             return "Meow!!!";
         }
