@@ -8,7 +8,9 @@ namespace Pets
         {            
             Console.WriteLine($"Hello World!");
             Cat fluffy = new Cat();
-            Console.WriteLine(fluffy.TalkToCatOwner());
+            Console.WriteLine(fluffy.TalkToOwner());
+            Pet odd = new Pet();
+            Console.WriteLine(odd.TalkToOwner());
         }
     }
 }
