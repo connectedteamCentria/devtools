@@ -2,11 +2,11 @@ using System;
 
 namespace Pets
 {
-    public class Cat : Pet
+    public class Cat
     {
-        public override string MakeSound()
+        public string MakeSound()
         {
-            return "Meow!!!";
+          return "Meow!";
         }
     }
 }
