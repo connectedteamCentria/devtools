@@ -4,7 +4,7 @@ namespace Pets
 {
     public class Pet
     {
-        virtual public string TalkToOwner()
+        virtual public string MakeSound()
         {
             return "Talk!!!";
         }
