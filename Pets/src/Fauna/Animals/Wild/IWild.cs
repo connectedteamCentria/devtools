@@ -1,8 +1,8 @@
 using System;
 
-namespace Pets
+namespace Fauna
 {
-    public interface IHuntWildAnimal
+    public interface IWild
     {
         string Hunt();
     }

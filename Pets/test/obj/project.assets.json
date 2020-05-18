@@ -4620,11 +4620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\test\\test.csproj",
+      "projectUniqueName": "c:\\Users\\Mirja Uusitalo\\Documents\\devtools\\Pets\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\test\\test.csproj",
+      "projectPath": "c:\\Users\\Mirja Uusitalo\\Documents\\devtools\\Pets\\test\\test.csproj",
       "packagesPath": "C:\\Users\\Mirja Uusitalo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mirja Uusitalo\\Documents\\devtools\\devtools\\pets\\test\\obj\\",
+      "outputPath": "c:\\Users\\Mirja Uusitalo\\Documents\\devtools\\Pets\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mirja Uusitalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
