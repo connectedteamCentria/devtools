@@ -1,17 +1,24 @@
-using System;
-
-namespace Pets
+namespace Fauna
 {
-    public abstract class MakeSound
+    public abstract class Animal
     {
-        public string name { get; }
+        public int weight;
 
-        public MakeSound(string name)
+        public Animal()
         {
-            this.name = name;
+            weight = 0;
         }
 
-        public abstract void Execute();
+        public abstract void MakeSound();
+
+        public virtual void Eat()
+        {
+            this.weight++;
+         /*   string name = this.GetType().ToString().Substring(6);
+            System.Console.WriteLine("{0} gained 1 kg, and weighs now {1} kg",
+                name, this.weight);*/
+        }
+
     }
 }
 

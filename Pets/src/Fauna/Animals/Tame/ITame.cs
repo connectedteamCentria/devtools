@@ -1,10 +1,12 @@
 using System;
 
-namespace Pets
+namespace Fauna
 {
-    public interface ITalkToTameAnimal
-    {
+    public interface ITame
+    {      
+        public string Name { get; set; }
+
        string ComeHere();
-       string TalkToOwner();
+       void TalkToOwner();
     }
 }
