@@ -1,7 +1,7 @@
 # devtools
 # Team work exercises devtools...test
 # Hello! it is working...:)
-Team work exercises
+# Team work exercises
 
 The purpose of the excercise is to practise agile methologies while creating and presenting a system of animals.
 
