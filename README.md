@@ -20,7 +20,7 @@ Tame Animals: **Cat**, **Dog**, **Bird** Wild animals: **Bear**, **Wolf**, **Tig
 
 
 # WILD
-[![Tiger](https://github.com/connectedteamCentria/devtools/blob/master/Content/tiger.png)]
+![Tiger](https://github.com/connectedteamCentria/devtools/blob/master/Content/tiger.png)
 
 ###The quarterly results look great!
    - Revenue was off the chart.
