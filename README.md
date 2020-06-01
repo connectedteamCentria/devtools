@@ -22,6 +22,24 @@ Tame Animals: **Cat**, **Dog**, **Bird** Wild animals: **Bear**, **Wolf**, **Tig
 # WILD
 ![Tiger](https://github.com/connectedteamCentria/devtools/blob/master/Content/tiger.png)
 
+Wild animals are *tiger*, *wolf* and *bear*.
+
+- Make Sound
+- Hunt (if an animals hunt succeeds the animal gains 1kg of weight.)
+
+
+# TAME
+![Bird](https://github.com/connectedteamCentria/devtools/blob/master/Content/bird.png)
+
+Tame animals are *bird*, *cat*, *dog* 
+
+- Talk to owner
+- Make Sound
+- Come to the Owner
+- Eat (an animals hians 1kg in weight when eating.)
+
+
+
 ###The quarterly results look great!
    - Revenue was off the chart.
    - Profits were higher than ever. 
