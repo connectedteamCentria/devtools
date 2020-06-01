@@ -73,7 +73,7 @@ There are Class diagram inside the assets. The Fauna2-project has an abstract cl
         └───obj
             └───Debug
                 └───netcoreapp3.1
-````
+```
 
 
 
