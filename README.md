@@ -1,9 +1,9 @@
 # Devtools
-*This is a Final Gropu-task from [ConnectedteamCentria/Devtools](https://github.com/connectedteamCentria/devtools)*
+*This is a Final Gropu-task from [ConnectedteamCentria/Devtools.](https://github.com/connectedteamCentria/devtools)*
 
 ***Devtools*** is the Final project in our course Software Development tools. The perpuse of the exercise to understand the software archiecture to real life building acrchiecture and understand the blueprint as well.  
 
-This project was completed by 4 students how were working under [ConnectedteamCentria/Devtools](https://github.com/connectedteamCentria/devtools) as a group member. At the same time we keep tracking Trello which helped us to follow the right track. For the Kanban it is easy to understand the individual task and fix the gole.  
+This project was completed by 4 students how were working under [ConnectedteamCentria/Devtools](https://github.com/connectedteamCentria/devtools) as a group member. At the same time we keep tracking Trello which helped us to follow the right track. For the Kanban it is easy to understand the individual task and fix our goal.  
 
 For more details about the program's functionality please check out our [Trello board](https://trello.com/b/GdmwY8LR/connectedteam).
 
