@@ -45,36 +45,39 @@ There is a Class diagram inside the assets. The Fauna2-project has an abstract c
 
 ![Class Diagram](https://github.com/connectedteamCentria/devtools/blob/master/Pets/assets/Fauna2%20(1).png)
 
+Here is **Folder Structure**
 
 ```ruby
 
-└───Pets
-    ├───assets
-    ├───src
-    │   ├───Fauna
-    │   │   ├───Animals
-    │   │   │   ├───Tame
-    │   │   │   └───Wild
-    │   │   ├───bin
-    │   │   │   └───Debug
-    │   │   │       └───netcoreapp3.1
-    │   │   └───obj
-    │   │       └───Debug
-    │   │           └───netcoreapp3.1
-    │   └───obj
-    │       └───Debug
-    │           └───netcoreapp3.1
-    └───test
-        ├───FaunaTests
-        │   ├───bin
-        │   │   └───Debug
-        │   │       └───netcoreapp3.1
-        │   └───obj
-        │       └───Debug
-        │           └───netcoreapp3.1
-        └───obj
-            └───Debug
-                └───netcoreapp3.1
+├── README.md
+├── assets
+│     ├── class_diagram_with_connections.png
+│     └── sequence_diagram.png
+├── src
+│    └── Fauna
+│	        ├── Animals
+│           │       ├── Animal.cs
+│           │       ├── UI.cs
+│           │       ├── Tame
+│           │       │    ├── ITame.cs
+│           │       │    ├── Cat.cs
+│           │       │    ├── Bird.cs
+│           │       │    ├── Dog.cs
+│           │       │    
+│           │       │    
+│           │       │
+│           │       └── Wild
+│           │            ├── IWild.cs
+│           │		     ├── Wolf.cs
+│           │		     ├── Bear.cs
+│           │		     └── Tiger.cs
+│           │
+│           ├── FaunaProject.csproj
+│           └── Program.cs
+└── test
+    └── FaunaTests
+          ├── FaunaTest.cs
+          └── FaunaTest.csproj
 ```
 
 
