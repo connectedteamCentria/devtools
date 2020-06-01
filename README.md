@@ -41,7 +41,7 @@ Tame animals are *bird*, *cat*, *dog*
 
 # Class Diagram
 
-There are Class diagram inside the assets. The Fauna2-project has an abstract class called Animals with the methods MakeSound() and Eat() and weight property. There are two interfaces, one for the ITame and the other for IWild animals. The classes inheriting ITame are Bird, Cat, Dog. ITame contains public methods TalkToOwner():string, ComeHere():string and GiveName():string and also a name property. The interface IWild has the method Hunt():string and is inherited by Tiger, Wolf and Bear -classes. There is also a user interface UI with the method Start() that is associated with both the IWild and ITame interfaces and also the abstract Animal class.
+There is a Class diagram inside the assets. The Fauna2-project has an abstract class called Animals with the methods MakeSound() and Eat() and weight property. There are two interfaces, one for the ITame and the other for IWild animals. The classes inheriting ITame are Bird, Cat, Dog. ITame contains public methods TalkToOwner():string, ComeHere():string and GiveName():string and also a name property. The interface IWild has the method Hunt():string and is inherited by Tiger, Wolf and Bear -classes. There is also a user interface UI with the method Start() that is associated with both the IWild and ITame interfaces and also the abstract Animal class.
 
 ```ruby
 
