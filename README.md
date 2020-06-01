@@ -48,7 +48,6 @@ There is a Class diagram inside the assets. The Fauna2-project has an abstract c
 
 ```ruby
 
-├───Content
 └───Pets
     ├───assets
     ├───src
