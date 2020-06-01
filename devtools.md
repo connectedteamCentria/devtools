@@ -19,4 +19,4 @@ The tame animals also TalkToOwner and ComeHere. Wild anomals Hunt.
 Tame Animals: **Cat**, **Dog**, **Bird** Wild animals: **Bear**, **Wolf**, **Tiger** Exceptional Wild Animal Elefant does not Hunt.
 
 
-# WILD
+# 
