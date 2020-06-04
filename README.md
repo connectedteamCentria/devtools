@@ -45,6 +45,12 @@ There is a Class diagram inside the assets. The Fauna2-project has an abstract c
 
 ![Class Diagram](https://github.com/connectedteamCentria/devtools/blob/master/Pets/assets/Fauna2%20(1).png)
 
+# Sequence Diagrams
+![Tame Animal Cat](https://raw.githubusercontent.com/connectedteamCentria/devtools/master/Pets/assets/Animals1_Cat.png)
+
+![Wild Animal Bear](https://raw.githubusercontent.com/connectedteamCentria/devtools/master/Pets/assets/Animals2_Bear.jpg)
+
+
 Here is **Folder Structure**
 
 ```ruby
